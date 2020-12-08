@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: black
+}
+
+c{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 40px;
+}
+
+a{
+	padding: 50px;
+	font-size: 25px;
+}
+
+
+d{
+	font-size: 50px;
+}
