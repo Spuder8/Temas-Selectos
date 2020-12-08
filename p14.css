@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #efefef;
+}
+
+article{
+	background-image: url("81004315-rosas-rosadas-en-blanco-rústico-fondo-de-madera-banner-horisontal.jpg");
+	background-size: cover;
+}
+#men{
+ padding: 0;
+ }
+
+h1{
+	 text-align: center;
+	font-family: Arial;
+	color: #8B2325;
+}
+
+#men li {
+ display: inline;
+ }
+
+#men li a{
+	font-family: Arial;
+	font-size: 20px;
+	padding: 30px;
+ 	color: deeppink;
+}
+
+section{
+	background-color: deeppink;
+	position:relative;
+	bottom:20px;
+}
+
+.flores{
+	border-radius: 60px; 
+	position: relative; 
+	top:8px; 
+	display: inline-block;
+	padding: 40px;
+}
+
+h3{
+	font-size: 30px;
+	color: deeppink;
+}
+
