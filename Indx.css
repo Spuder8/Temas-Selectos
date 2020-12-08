@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: black;
+	background: url("cd.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+c{
+	font-family:   Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 40px;
+}
+
+a{
+	font-size: 25px;
+}
+
+
+d{
+	font-size: 50px;
+}
