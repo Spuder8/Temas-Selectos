@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+	body {
+      background: url("Los-Mochis.jpg"); 
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin: 0;
+      height: 100vh;
+    }
+
+div{
+	opacity: 0.9;
+	background: linear-gradient(green,red);
+	transition: height 2s;
+}
+
+div:hover{
+	background: linear-gradient(white,red);
+	-webkit-transform:skew(5deg);
+	height: 500px;
+}
+
+
+	
+.platillo{
+float: left;
+margin: 5px;
+padding: 15px;
+width: 300px;
+height: 350px;		
+-webkit-transform:skew(-5deg);
+} 
+
+
+.platillo2{
+float: left;
+margin: 5px;
+padding: 15px;
+width: 300px;
+height: 350px;	
+-webkit-transform:rotate(5deg);
+} 
+
+
+.platillo3{
+float: left;
+margin: 5px;
+padding: 15px;
+width: 300px;
+height: 350px;	
+-webkit-transform:scale(1)translatey(15px);
+} 
+
+.platillo4{
+float: left;
+margin: 5px;
+padding: 15px;
+width: 300px;
+height: 350px;	
+-webkit-transform:translate(25px,50px);
+} 
+
+	h2{
+		font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	}
+	
+	p{
+		font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	}
+	
+	h1{
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	}

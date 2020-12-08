@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:#524741;
+}
+
+#im{
+	width:8%; 
+	margin:0 auto;
+}
+
+#im2{width:80%;
+	height:800px;
+	}
+.im2{
+	margin: 0 auto;
+}
+
+#pr{
+	background-color:#221D1A;
+	Margin-left: 100px;
+	margin-right: 100px;
+}
+
+#med{
+	background-color: #E6AD2A;
+	Margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+}
+
+#debajo{
+	background-color: #221D1A;
+	Margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	height: 100px;
+}
+
+#im3{
+	width:100px;
+	height:100px;	
+}
+
+.im3{
+	margin: 5px;
+	align-content: center; 
+}
+
+
+#im4{
+	width:100px;
+	height:100px;	
+}
+
+.im4{
+	margin: 5px;
+	align-content: center; 
+}
+
+#im5{
+	width:100px;
+	height:100px;	
+}
+
+.im5{
+	margin: 5px;
+	align-content: center; 
+}
+
+#im6{
+	width:100px;
+	height:100px;	
+}
+
+.im6{
+	margin: 5px;
+	align-content: center; 
+}
+
+
+.lista{
+	list-style: none;
+	display:inline;
+	padding-right: 30px;
+}
+ul {
+	float: right;
+}
+
+for{
+	text-decoration: none; 
+	color:#FF0;
+	font-size: 20px;
+}
+for:hover{
+	color:white;
+}
+
+#sub{
+	background-color:#D29E26;
+	margin: 0 auto;
+	width: 80%;
+	height: 200px;
+}
+
+
+#sub2{
+	background-color:#221D1A;
+	margin: 0 auto;
+	width: 80%;
+	height: 1200px;
+}
